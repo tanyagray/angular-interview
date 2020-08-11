@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sporting Goods",
+      "slug": "sporting-goods"
+    },
+    {
+      "id": 2,
+      "name": "Electronics",
+      "slug": "electronics"
+    },
+    {
+      "id": 3,
+      "name": "Foods",
+      "slug": "foods"
+    }
+  ]
+}
